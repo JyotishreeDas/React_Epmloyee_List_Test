@@ -1,12 +1,12 @@
 ## React Emloyee List
 
-Steps for run this app:
+Steps to run this app:
 
-## install the project's dependencies
+## install app dependencies
 $ npm install <br/>
 $ npm start
 
-Access the page from local webserver[http://localhost:8002].
+Access the page from local webserver [http://localhost:8002].
 
 ## Running unit tests using command
 $ npm test
